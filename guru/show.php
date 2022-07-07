@@ -53,7 +53,7 @@
                 <input type="hidden" name="aksi" value="update">
                 <input type="hidden" name="no" value="<?php echo $no; ?>">
                     <div class="form-group">
-                        <label for="exampleInputEmail1">NIP</label> 
+                        <label for="exampleInputEmail1">NIK</label> 
                         <input type="number" class="form-control" name="nip" value="<?php echo $nip; ?>" disabled>
                     </div>
                     <div class="form-group">
