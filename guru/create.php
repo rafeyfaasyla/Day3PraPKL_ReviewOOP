@@ -47,7 +47,7 @@
                         <input type="number" class="form-control" name="nip" >
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Nama lengkap</label>
+                        <label for="exampleInputEmail1">Nama </label>
                         <input type="text" class="form-control" name="nama">
                     </div>
                     <div class="form-group">
