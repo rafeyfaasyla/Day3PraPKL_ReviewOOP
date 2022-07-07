@@ -64,7 +64,7 @@
                         <label for="exampleInputEmail1">Alamat</label>
                         <input type="text" class="form-control" name="alamat" value="<?php echo $alamat; ?>">
                     </div>
-                    <button type="submit" name="save" class="btn btn-primary">Simpan</button>
+                    <button type="submit" name="save" class="btn btn-primary">Save</button>
                 </form>
 
             </div>
