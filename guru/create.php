@@ -54,7 +54,7 @@
                         <label for="exampleInputEmail1">Alamat</label>
                         <input type="text" class="form-control" name="alamat">
                     </div>
-                    <button type="submit" name="save" class="btn btn-primary">save</button>
+                    <button type="submit" name="save" class="btn btn-primary">simpan</button>
                 </form>
 
             </div>
