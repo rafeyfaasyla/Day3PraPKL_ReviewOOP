@@ -71,7 +71,7 @@
                             <input type="hidden" name="no" value="<?php echo $data['no']; ?>">
                             <input type="hidden" name="aksi" value="delete">
                             <button type="submit" class="btn btn-danger" name="save" onclick="return confirm('Apakah Anda Yakin Mau menghapus data ini ?')">
-                                Delete
+                                Hapus
                             </button>
                            </form>
                         </td>
