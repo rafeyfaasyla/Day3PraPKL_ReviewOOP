@@ -61,7 +61,7 @@
                         <input type="text" class="form-control" name="nama" value="<?php echo $nama; ?>">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Alamat lengkap</label>
+                        <label for="exampleInputEmail1">Alamat </label>
                         <input type="text" class="form-control" name="alamat" value="<?php echo $alamat; ?>">
                     </div>
                     <button type="submit" name="save" class="btn btn-primary">Save</button>
